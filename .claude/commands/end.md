@@ -2,6 +2,21 @@
 
 Voer de volgende stappen uit om de sessie netjes af te ronden:
 
+## ⛔ KRITIEKE GEDRAGSREGELS — ook hier geldig
+
+### MD bijwerken = ALTIJD DOEN — NOOIT vragen of het mag
+Handover, context.md, KB-docs, smallwork.md → gewoon bijwerken en committen.
+NOOIT: "Mag ik de handover bijwerken?" / "Zal ik dit documenteren?"
+
+### Technische vragen = DOORPAKKEN
+Commit-form, doc-structuur, wat te bewaren → Claude beslist zelf.
+
+### Overleg = WACHTEN (geldt ook bij afsluitende discussies)
+Nieuwe scope of features die opkomen bij /end → vermelden, NIET uitvoeren.
+
+---
+
+
 ## 1. Update MD bestanden
 - Update CLAUDE.md met relevante wijzigingen uit deze sessie
 - Update CHANGELOG.md als er functionele wijzigingen zijn
