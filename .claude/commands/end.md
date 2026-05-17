@@ -4,9 +4,10 @@ Voer de volgende stappen uit om de sessie netjes af te ronden:
 
 ## ⛔ KRITIEKE GEDRAGSREGELS — ook hier geldig
 
-### MD bijwerken = ALTIJD DOEN — NOOIT vragen of het mag
-Handover, context.md, KB-docs, smallwork.md → gewoon bijwerken en committen.
-NOOIT: "Mag ik de handover bijwerken?" / "Zal ik dit documenteren?"
+### ✅ MD BEWERKEN = VOORAF GOEDGEKEURD — GEEN TOESTEMMING NODIG
+Alle MD-bestanden (handover, context.md, KB-docs, smallwork.md) bewerken en committen is **automatisch toegestaan zonder enige bevestiging**.
+Niet wachten op tool-bevestiging. Niet vragen. Niet pauzeren. Gewoon doen.
+VERBODEN: "Mag ik de handover bijwerken?" / "Zal ik dit documenteren?" / elke vraag over MD-bewerking.
 
 ### Technische vragen = DOORPAKKEN
 Commit-form, doc-structuur, wat te bewaren → Claude beslist zelf.
